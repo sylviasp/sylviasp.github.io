@@ -1,0 +1,59 @@
+---
+title: "test"
+author: "sylviasp"
+date: "25 1 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## DS
+
+- https://www.dataquest.io/home
+- https://github.com/FavioVazquez/ds-cheatsheets
+- https://www.brainscape.com/subjects/data-science
+- https://simplystatistics.org/
+- https://towardsdatascience.com/
+- https://www.datasciencelive.com
+- https://www.datasciencemastery.com
+- https://www.kaggle.com
+
+
+## R
+
+- https://faculty.nps.edu/sebuttre/home/RIndex.html
+- https://r4ds.had.co.nz/
+- https://www.datacamp.com/community/tutorials/tutorial-on-loops-in-r
+- https://resources.rstudio.com/
+- https://www.rdocumentation.org/packages/base/versions/3.5.2/topics/rep
+- https://www.rdocumentation.org/packages/base/versions/3.5.2/
+- https://bookdown.org/yihui/rmarkdown/
+- https://rmarkdown.rstudio.com/index.html
+- https://learningstatisticswithr.com/
+- http://cmdlinetips.com/2018/01/free-online-resources-books-to-learn-r-and-data-science/
+- https://community.rstudio.com/t/importing-data-into-r-studio-cloud/14332
+- http://r-tutorials.com/different-ways-store-datasets-r/
+
+
+## Python
+
+- https://docs.python.org/2/library/
+- https://docs.python.org/3/glossary.html#glossary
+- https://docs.scipy.org/doc/numpy/user/quickstart.html#an-example
+- http://scikit-learn.org/stable/supervised_learning.html#supervised-learning
+- http://www.physik.uzh.ch/local/teaching/PHY114/python/
+- http://greenteapress.com/wp/
+- https://www.pythonforbeginners.com/
+- http://www.openbookproject.net/thinkcs/python/english2e/
+- https://matplotlib.org/resources/index.html
+- https://www.codecademy.com/learn/learn-python
+- https://pythonprogramming.net/
+- https://www.grund-wissen.de/informatik/python/scipy/pandas.html
+
+
+
+
+
+

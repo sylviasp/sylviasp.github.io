@@ -1,7 +1,7 @@
 ---
 title: "test"
 author: "sylviasp"
-date: "25 1 2019"
+date: "11 3 2019"
 output: html_document
 ---
 
@@ -19,10 +19,17 @@ knitr::opts_chunk$set(echo = TRUE)
 - https://www.datasciencelive.com
 - https://www.datasciencemastery.com
 - https://www.kaggle.com
+- https://medium.com/@miles.mcbain/tidying-the-australian-same-sex-marriage-postal-survey-data-with-r-5d35cea07962
+- https://towardsdatascience.com/quality-over-quantity-building-the-perfect-data-science-project-993ccc0b1241
+- https://www.futurelearn.com/
+- https://towardsdatascience.com/how-it-feels-to-learn-data-science-in-2019-6ee688498029
+- https://www.codingwithmax.com/blog
+
 
 
 ## R
 
+- https://cran.r-project.org/
 - https://faculty.nps.edu/sebuttre/home/RIndex.html
 - https://r4ds.had.co.nz/
 - https://www.datacamp.com/community/tutorials/tutorial-on-loops-in-r
@@ -35,6 +42,33 @@ knitr::opts_chunk$set(echo = TRUE)
 - http://cmdlinetips.com/2018/01/free-online-resources-books-to-learn-r-and-data-science/
 - https://community.rstudio.com/t/importing-data-into-r-studio-cloud/14332
 - http://r-tutorials.com/different-ways-store-datasets-r/
+- https://www.analyticsvidhya.com/blog/2017/03/beginners-guide-on-web-scraping-in-r-using-rvest-with-hands-on-knowledge/
+- https://www.analyticsvidhya.com/learning-paths-data-science-business-analytics-business-intelligence-big-data/learning-path-r-data-science/
+- https://www.statmethods.net/
+- https://www.datacamp.com/tracks/learn-statistics-with-r
+- http://shiny.rstudio.com/
+- http://www.cookbook-r.com/
+
+
+
+### R tidyr | reshape2
+- https://tidyr.tidyverse.org/reference/separate.html
+- https://tidyr.tidyverse.org/reference/extract.html
+- https://tidyr.tidyverse.org/articles/tidy-data.html#data-semantics
+- https://blog.rstudio.com/2014/07/22/introducing-tidyr/
+- https://seananderson.ca/2013/10/19/reshape/
+- http://www.milanor.net/blog/reshape-data-r-tidyr-vs-reshape2/
+- https://github.com/tidyverse/tidyr
+
+
+### R dplyr
+- https://dplyr.tidyverse.org/
+- http://stat545.com/bit001_dplyr-cheatsheet.html (join functions)
+- https://suzan.rbind.io/2018/01/dplyr-tutorial-1/
+
+
+### R Project Packages
+- http://projecttemplate.net/
 
 
 ## Python
@@ -51,8 +85,32 @@ knitr::opts_chunk$set(echo = TRUE)
 - https://www.codecademy.com/learn/learn-python
 - https://pythonprogramming.net/
 - https://www.grund-wissen.de/informatik/python/scipy/pandas.html
+- https://carpentrieslab.github.io/python-aos-lesson/
+- https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
+- https://automatetheboringstuff.com/
 
 
+
+## Jupyter Notebook
+- https://jupyter4edu.github.io/jupyter-edu-book/
+- https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+
+
+## Kaggle
+- https://www.youtube.com/watch?v=jmHbS8z57yI
+- https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab
+- http://blog.kaggle.com/
+- http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/
+- https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python
+- https://www.kaggle.com/jackcook/how-to-become-a-data-scientist
+
+
+
+## Div
+- https://www.datacamp.com/community/open-courses
+- http://greenteapress.com/wp/
+- https://www.pdfdrive.com/
+- https://machinelearningmastery.com/start-here/
 
 
 

@@ -1,7 +1,7 @@
 ---
 title: "test"
 author: "sylviasp"
-date: "11 3 2019"
+date: "2019 07 30"
 output: html_document
 ---
 
@@ -10,7 +10,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 ## DS
-
 - https://www.dataquest.io/home
 - https://github.com/FavioVazquez/ds-cheatsheets
 - https://www.brainscape.com/subjects/data-science
@@ -18,17 +17,24 @@ knitr::opts_chunk$set(echo = TRUE)
 - https://towardsdatascience.com/
 - https://www.datasciencelive.com
 - https://www.datasciencemastery.com
-- https://www.kaggle.com
 - https://medium.com/@miles.mcbain/tidying-the-australian-same-sex-marriage-postal-survey-data-with-r-5d35cea07962
 - https://towardsdatascience.com/quality-over-quantity-building-the-perfect-data-science-project-993ccc0b1241
 - https://www.futurelearn.com/
 - https://towardsdatascience.com/how-it-feels-to-learn-data-science-in-2019-6ee688498029
 - https://www.codingwithmax.com/blog
+- https://www.youtube.com/watch?v=eTxyviU0Ddo
+- https://canvas.harvard.edu/courses/29726/
+- https://github.com/cs109
+- https://cs109.github.io/2015/index.html
+
+### DS Trainings
+- https://www.galvanize.com/data-science/prep
+- https://datasciencedojo.com/bootcamp/curriculum/
+- https://github.com/DataScienceSpecialization/courses
 
 
 
 ## R
-
 - https://cran.r-project.org/
 - https://faculty.nps.edu/sebuttre/home/RIndex.html
 - https://r4ds.had.co.nz/
@@ -48,7 +54,8 @@ knitr::opts_chunk$set(echo = TRUE)
 - https://www.datacamp.com/tracks/learn-statistics-with-r
 - http://shiny.rstudio.com/
 - http://www.cookbook-r.com/
-
+- https://www.r-bloggers.com/how-to-learn-r-2/
+- https://moderndive.com/
 
 
 ### R tidyr | reshape2
@@ -65,14 +72,33 @@ knitr::opts_chunk$set(echo = TRUE)
 - https://dplyr.tidyverse.org/
 - http://stat545.com/bit001_dplyr-cheatsheet.html (join functions)
 - https://suzan.rbind.io/2018/01/dplyr-tutorial-1/
+- https://r4ds.had.co.nz/transform.html
+- https://jrnold.github.io/r4ds-exercise-solutions/data-visualisation.html
 
+
+### R ggplot2
+- https://ggplot2.tidyverse.org/reference/
+
+### R janitor
+- http://sfirke.github.io/janitor/
+- http://sfirke.github.io/janitor/articles/janitor.html
+- http://www.et.bs.ehu.es/cran/web/packages/janitor/vignettes/introduction.html
 
 ### R Project Packages
 - http://projecttemplate.net/
 
+### R Swirl Package
+- https://github.com/swirldev/swirl_courses
+
+### R Stringr
+- https://github.com/mqwu/R/blob/master/DataCamp_string_manipulation_with_stringr.R
+
+### R Project for statistical computing
+- https://github.com/mhahsler/Introduction_to_Data_Mining_R_Examples
+
+
 
 ## Python
-
 - https://docs.python.org/2/library/
 - https://docs.python.org/3/glossary.html#glossary
 - https://docs.scipy.org/doc/numpy/user/quickstart.html#an-example
@@ -88,15 +114,32 @@ knitr::opts_chunk$set(echo = TRUE)
 - https://carpentrieslab.github.io/python-aos-lesson/
 - https://www.analyticsvidhya.com/blog/2016/01/complete-tutorial-learn-data-science-python-scratch-2/
 - https://automatetheboringstuff.com/
+- https://lectures.quantecon.org/py/
 
+
+## R & Python
+- https://towardsdatascience.com/from-r-vs-python-to-r-and-python-aa25db33ce17
+
+
+## Datacamp courses
+- https://github.com/mqwu/R
+- https://www.datacamp.com/community/open-courses
+- https://rpubs.com/iPhuoc/stringr_manipulation
+- https://github.com/LuisTT/Cleaning-Data-in-R/blob/master/cleaning%20complete%20datafile.txt
+- https://rpubs.com/williamsurles/298166
 
 
 ## Jupyter Notebook
 - https://jupyter4edu.github.io/jupyter-edu-book/
 - https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook
+- https://www.dataquest.io/blog/jupyter-notebook-tutorial/
+- https://nbviewer.jupyter.org/
+
+- https://www.datacamp.com/community/tutorials/sql-interface-within-jupyterlab
 
 
 ## Kaggle
+- https://www.kaggle.com
 - https://www.youtube.com/watch?v=jmHbS8z57yI
 - https://towardsdatascience.com/understanding-gradient-boosting-machines-9be756fe76ab
 - http://blog.kaggle.com/
@@ -107,11 +150,22 @@ knitr::opts_chunk$set(echo = TRUE)
 
 
 ## Div
-- https://www.datacamp.com/community/open-courses
 - http://greenteapress.com/wp/
 - https://www.pdfdrive.com/
 - https://machinelearningmastery.com/start-here/
+- https://www.r-bloggers.com/in-depth-introduction-to-machine-learning-in-15-hours-of-expert-videos/
+- https://www.seas.harvard.edu/programs/graduate/applied-computation
+- https://nbviewer.jupyter.org/
+- https://thehackernews.com/
+- https://www.oreilly.com/library/view/introducing-regular-expressions/9781449338879/ch01.html
 
 
+### Resources for doing data journalism with R.
+ - https://rddj.info/
+
+
+## Math | Stats
+- https://www.mathe-online.at/mathint.html
+- https://www.khanacademy.org/math/statistics-probability
 
 

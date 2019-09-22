@@ -31,7 +31,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - https://www.galvanize.com/data-science/prep
 - https://datasciencedojo.com/bootcamp/curriculum/
 - https://github.com/DataScienceSpecialization/courses
-
+- http://www.datasciencemadesimple.com/
 
 
 ## R
@@ -92,10 +92,18 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ### R Stringr
 - https://github.com/mqwu/R/blob/master/DataCamp_string_manipulation_with_stringr.R
+- https://www.tidytextmining.com/index.html
+- https://cran.r-project.org/web/packages/tidytext/vignettes/tidytext.html
+
 
 ### R Project for statistical computing
 - https://github.com/mhahsler/Introduction_to_Data_Mining_R_Examples
 
+
+### Data Visualization
+- https://leanpub.com/courses/jhu/cbds-visualization/read/1
+- https://www.r-graph-gallery.com/
+- https://github.com/EmilHvitfeldt/r-color-palettes
 
 
 ## Python
